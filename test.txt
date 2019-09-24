@@ -1,4 +1,6 @@
 Gogogo
-
+git status
 
 sdfsdaaa
+
+Нужно удалить
